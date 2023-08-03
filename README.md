@@ -5,9 +5,9 @@ Create a new bot from https://discord.com/developers/applications and copy your 
 
 ``Install python 3.8 or higher ``
 
-```git clone https://github.com/M-thefl/Sinco_Bot_persianbot.git```
+```git clone https://github.com/M-thefl/discord.bot.git```
 
-```cd Sinco_Bot_persianbot```
+```cd discord.bot```
 
 Install modules</p>
 ```pip install -r requirements.txt```
@@ -68,4 +68,5 @@ async def on_member_join(member):
     await welcome1_channel.send(f"||{member.mention}||",embed=embed1)
     await member.send(f"**Developer server \n discord.gg/021**")
 ```
+
 
