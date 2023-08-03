@@ -1,6 +1,5 @@
-# Sinco_Bot_persia
 
-#  Discord Bot| Tickets｜welcome｜voice channel｜Moderation | level
+# Discord Bot| Tickets｜welcome｜voice channel｜Moderation | level
 
 # Installation Guide
 Create a new bot from https://discord.com/developers/applications and copy your bot token and application ID
